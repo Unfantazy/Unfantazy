@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Angelina
+
+I live in Saint-Petersburg, Russia
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,ts,vite,webpack)](https://skillicons.dev)
 
 <!--
 **Unfantazy/Unfantazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
